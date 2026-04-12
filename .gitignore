@@ -252,3 +252,10 @@ node_modules
 
 # Test downloads - not for version control
 Test-Downloads/
+
+### Docker ###
+Dockerfile
+.dockerignore
+01-tutorials/03-AgentCore-identity/07-Outbound_Auth_3LO_ECS_Fargate/backend/runtime/requirements.txt
+01-tutorials/03-AgentCore-identity/07-Outbound_Auth_3LO_ECS_Fargate/backend/session_binding/requirements.txt
+01-tutorials/03-AgentCore-identity/07-Outbound_Auth_3LO_ECS_Fargate/cdk.context.json
